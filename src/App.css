@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.product-page{
+  display: flex;
+  justify-content: space-around;
+}
+
+.create-btn{
+  padding: 15px 25px;
+  background-color: cadetblue;
+  color: white;
+  border: 1px solid white;
+  font-size: 20px;
+}
+
+.btn-div{
+  margin-top: 100px;
+  margin-left: 50px;
+}
